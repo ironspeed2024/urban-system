@@ -395,6 +395,9 @@ footer{
 	.titulo h1{
 		font-size:16px;
 	}
+	.titulo h2{
+		font-size:13px;
+	}
 	.habitaciones h1{
 		font-size:18px;
 	}
